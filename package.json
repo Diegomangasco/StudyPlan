@@ -1,0 +1,19 @@
+{
+  "name": "exam-1---studyplan-diegomangasco",
+  "version": "1.0.0",
+  "description": "## React Client Application Routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polito-WA1-AJ-2022-exam/exam-1---studyplan-Diegomangasco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polito-WA1-AJ-2022-exam/exam-1---studyplan-Diegomangasco/issues"
+  },
+  "homepage": "https://github.com/polito-WA1-AJ-2022-exam/exam-1---studyplan-Diegomangasco#readme"
+}
